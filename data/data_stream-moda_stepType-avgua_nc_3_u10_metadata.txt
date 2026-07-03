@@ -1,0 +1,10 @@
+source_file: data_stream-moda_stepType-avgua.nc 3
+variable: u10
+long_name: 10 metre U wind component
+units: m s**-1
+shape_time_lat_lon: (545, 37, 35)
+time_count: 545
+latitude_count: 37
+longitude_count: 35
+long_csv: data_stream-moda_stepType-avgua_nc_3_u10_long.csv
+time_series_csv: data_stream-moda_stepType-avgua_nc_3_u10_time_series.csv

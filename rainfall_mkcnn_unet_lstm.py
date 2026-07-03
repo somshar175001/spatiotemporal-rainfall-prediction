@@ -38,7 +38,7 @@ MONTHS = {
 }
 
 
-DEFAULT_DATA_DIR = Path("/Users/ishitasharma/Desktop/EveryThing/Somya")
+DEFAULT_DATA_DIR = Path("data")
 DEFAULT_INPUTS = [
     ("v10", DEFAULT_DATA_DIR / "data_stream-moda_stepType-avgua_nc_v10_time_series.csv"),
     ("r", DEFAULT_DATA_DIR / "data_stream-moda_stepType-avgua_nc_2_r_time_series.csv"),

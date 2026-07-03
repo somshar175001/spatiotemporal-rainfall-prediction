@@ -1,0 +1,10 @@
+source_file: data_stream-moda_stepType-avgua.nc 2
+variable: r
+long_name: Relative humidity
+units: %
+shape_time_lat_lon: (46, 37, 35)
+time_count: 46
+latitude_count: 37
+longitude_count: 35
+long_csv: data_stream-moda_stepType-avgua_nc_2_r_long.csv
+time_series_csv: data_stream-moda_stepType-avgua_nc_2_r_time_series.csv
